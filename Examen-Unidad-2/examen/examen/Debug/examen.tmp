@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\Debug\examen.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>examen.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>examen.map</FILE>
+  <FILE>examen.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>8</LINE></start>
+  <loop><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>27</LINE></loop>
+  <TAG><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>73</LINE></TAG>
+  <TAG2_JUMP><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>64</LINE></TAG2_JUMP>
+  <TAG3_JUMP><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>66</LINE></TAG3_JUMP>
+  <TAG4_JUMP><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>68</LINE></TAG4_JUMP>
+  <delay><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>151</LINE></delay>
+  <TAG2><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>97</LINE></TAG2>
+  <TAG3><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>114</LINE></TAG3>
+  <TAG4><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>130</LINE></TAG4>
+  <MOV_R17><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>70</LINE></MOV_R17>
+  <MOV_R18><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>92</LINE></MOV_R18>
+  <LOOP_JUMP><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>95</LINE></LOOP_JUMP>
+  <MOV_R19><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>111</LINE></MOV_R19>
+  <MOV_R20><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>127</LINE></MOV_R20>
+  <LOST><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>145</LINE></LOST>
+  <WON><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>141</LINE></WON>
+  <D1><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>153</LINE></D1>
+  <D2><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>155</LINE></D2>
+  <D3><FILE>C:\Users\maria\Development\Courses\ensamblador-curso\Examen-Unidad-2\examen\examen\main.asm</FILE><LINE>157</LINE></D3>
+ </LABELS>
+</ASSEMBLER_INFO>
