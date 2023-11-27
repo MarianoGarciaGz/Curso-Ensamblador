@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\Debug\animationcode.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>animationcode.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>animationcode.map</FILE>
+  <FILE>animationcode.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>1</LINE></start>
+  <loop><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>8</LINE></loop>
+  <ani><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>14</LINE></ani>
+  <ani1><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>16</LINE></ani1>
+  <animacion1><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>24</LINE></animacion1>
+  <animacion2><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>118</LINE></animacion2>
+  <animacion3><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>222</LINE></animacion3>
+  <animacion0><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>341</LINE></animacion0>
+  <animacion1a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>26</LINE></animacion1a>
+  <animacion1b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>29</LINE></animacion1b>
+  <clear><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>354</LINE></clear>
+  <ranimacion1b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>112</LINE></ranimacion1b>
+  <ranimacion1a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>114</LINE></ranimacion1a>
+  <animacion2a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>120</LINE></animacion2a>
+  <animacion2b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>122</LINE></animacion2b>
+  <ranimacion2b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>217</LINE></ranimacion2b>
+  <ranimacion2a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>219</LINE></ranimacion2a>
+  <animacion3a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>224</LINE></animacion3a>
+  <animacion3b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>226</LINE></animacion3b>
+  <ranimacion3b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>335</LINE></ranimacion3b>
+  <ranimacion3a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>337</LINE></ranimacion3a>
+  <animacion0a><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>343</LINE></animacion0a>
+  <animacion0b><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\3-unidad\animation\animationcode\animationcode\main.asm</FILE><LINE>345</LINE></animacion0b>
+ </LABELS>
+</ASSEMBLER_INFO>

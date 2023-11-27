@@ -18,7 +18,7 @@ main:
 convert_c:
     cpi r16, 100 ; Compara el valor actual con 100
     brlo convert_d ; Si es menor que 100, pasamos a convertir decimales
-    subi r16, 100 ; Resta 10 del valor actual
+    subi r16, 100 ; Resta 100 del valor actual
     inc r19 ; Incrementa el contador de centenas
     rjmp convert_c ; Repite el proceso
 
