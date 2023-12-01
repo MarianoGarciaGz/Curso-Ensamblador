@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\Debug\binario a volts.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>binario a volts.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>binario a volts.map</FILE>
+  <FILE>binario a volts.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <conf><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>1</LINE></conf>
+  <main><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>12</LINE></main>
+  <inc_value><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>39</LINE></inc_value>
+  <convert_c><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>26</LINE></convert_c>
+  <convert_d><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>33</LINE></convert_d>
+  <done><FILE>C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-4\binario a volts\binario a volts\main.asm</FILE><LINE>48</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

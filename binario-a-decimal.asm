@@ -14,7 +14,6 @@ main:
     ldi r18, 0 ; Inicializa el contador de unidades a 0
     ldi r19, 10 ; Valor constante para la comparación
 
-
 ; --- Rutina binario a decimal
 convert:
     cp r16, r19 ; Compara el valor actual con 10
