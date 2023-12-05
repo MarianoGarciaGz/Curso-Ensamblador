@@ -24,11 +24,13 @@ espera:
 
 INT_T0:
     inc r20
-    cpi r20, 62
+    cpi r20, 32
     brne eti
 	out portb, r24
 	inc r24
 	clr r20
+	cpi r24, 60
+	breq start
 
 eti:
     reti

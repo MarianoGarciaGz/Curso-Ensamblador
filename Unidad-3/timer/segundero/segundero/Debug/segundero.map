@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.7  C:\Users\maria\Documents\Atmel Studio\7.0\segundero\segundero\main.asm Sat Dec 02 00:46:23 2023
+AVRASM ver. 2.2.7  C:\Users\maria\Development\Courses\curso-ensamblador\Unidad-3\timer\segundero\segundero\main.asm Sat Dec 02 17:44:12 2023
 
 
 EQU  SIGNATURE_000 0000001e
@@ -698,4 +698,4 @@ EQU  INT_VECTORS_SIZE 00000034
 CSEG start        00000021
 CSEG INT_T0       00000030
 CSEG espera       0000002f
-CSEG eti          00000036
+CSEG eti          00000038
